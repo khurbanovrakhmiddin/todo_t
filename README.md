@@ -13,7 +13,7 @@
 Этот клип демонстрирует адаптацию плеера к экрану телефона.
 
 <div align="center">
-    <video src="soruce/iPhone 16.mp4" controls width="300"></video>
+    <video src="[soruce/iPhone 16.mp4]" controls width="300"></video>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 Этот клип показывает, как плеер масштабируется на более крупном экране планшета (возможно, с другими пропорциями UI-элементов).
 
 <div align="center">
-    <video src="soruce/iPad Air 13-inch (M3).mp4" controls width="700"></video>
+    <video src="[soruce/iPad Air 13-inch (M3).mp4]" controls width="700"></video>
 </div>
 
 ---
