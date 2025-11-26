@@ -1,16 +1,35 @@
-# task_note_player
+# 🚀 Название Вашего Проекта
 
-A new Flutter project.
+... (Краткое описание и скриншот)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎬 Демонстрация: Адаптивность Видеоплеера
 
-A few resources to get you started if this is your first Flutter project:
+Ниже показана работа плеера в двух различных сценариях: мобильный (iPhone) и планшет (iPad), демонстрируя корректное отображение в полноэкранном режиме и работу кастомного контроллера.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. 📱 Демонстрация на iPhone (Портрет/Ландшафт)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Этот клип демонстрирует адаптацию плеера к экрану телефона.
+
+<div align="center">
+    <video src="soruce/iPhone 16.mp4" controls width="300"></video>
+</div>
+
+---
+
+### 2. 🖥️ Демонстрация на iPad (Планшетный вид)
+
+Этот клип показывает, как плеер масштабируется на более крупном экране планшета (возможно, с другими пропорциями UI-элементов).
+
+<div align="center">
+    <video src="soruce/iPad Air 13-inch (M3).mp4" controls width="700"></video>
+</div>
+
+---
+
+## ⚙️ Технические детали
+
+* **Исходные файлы видео:** `soruce/iPhone 16.mp4`, `soruce/iPad Air 13-inch (M3).mp4`
+* **Использованные пакеты:** `video_player`, `flutter_bloc`
+* ...
